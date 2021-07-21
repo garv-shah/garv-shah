@@ -24,7 +24,6 @@
 <br>
 <samp>
   <p align="center">
-    ════ ⋆★⋆ ════<br>
-    From <a href="https://github.com/garv-shah/garv-shah">garv-shah</a>
+    c:<br>
   </p>
 </samp>
