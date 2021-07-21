@@ -24,6 +24,6 @@
 <br>
 <samp>
   <p align="center">
-    c:<br>
+    :D<br>
   </p>
 </samp>
