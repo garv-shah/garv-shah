@@ -1,7 +1,7 @@
 <h3 align="center"><samp>Hello! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://garv-shah.github.io">Garv</a></b></samp></h3>
 <p align="center"><br>
   <samp>
-    ~ ijjx7T8LVY6FK2HJUXBmCSEup4zpShX8guwP7uYg5Mv+ZgNkgHKpBqlpbTkenl3g4MEIVWOBLcgObuYYotK/EQ== ~ <br>
+    ~ I like doing <b>stuff</b> ~ <br>
   </samp>
 </p>
 <details align="center">
