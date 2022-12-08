@@ -16,7 +16,7 @@ I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://garv-
       <a href="https://github.com/garv-shah?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
   <br>
   <a href="https://www.linkedin.com/in/garvshah/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=garv-shah&theme=noctis_minimus&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=garv-shah&theme=noctis_minimus&show_icons=true"><br>
     <img src="https://api.githubtrends.io/user/svg/garv-shah/repos?time_range=one_year&include_private=True&theme=dark">
   </a><br>
      <a href="https://www.wwdcscholars.com/s/DF1A5147-A993-44E4-8739-8A050139A7BA" target="_blank"><img alt="Apple Scholarship" src="https://img.shields.io/badge/-2021%20WWDC%20Scholar-000000?style=flat-square&logo=apple&logoColor=white"></a>
